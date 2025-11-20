@@ -1,0 +1,1 @@
+# SQL_HackerRank_Practise_Material
